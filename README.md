@@ -33,5 +33,5 @@ I'm a student of **Applied Computer Science** passionate about software developm
 
 * 📈 **Finance Tracker**: https://github.com/montelzek/money-tracker - An application designed for managing personal finances.
 * **✅ Simple Todo App**: https://github.com/montelzek/todo-app - A basic application built with the Spring Framework, focusing on fundamental concepts.
-* 🏢 **Dormitory Management App**: (Diploma Thesis Project - Just Started!) - Taking the very first steps on my final thesis project: a full-stack application (Spring Boot & Angular) to manage dormitory operations. Stay tuned for the repository!
+* 🏢 **Dormitory Management App**: (Diploma Thesis Project - Just Started!) - Taking the very first steps on my final thesis project: a full-stack application (Spring & Angular) to manage dormitory operations. Stay tuned for the repository!
 
