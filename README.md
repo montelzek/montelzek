@@ -17,7 +17,6 @@ I'm a student of **Applied Computer Science** passionate about software developm
     ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 * **Frameworks & Libraries:**
     ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-    ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
     ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 * **Tools & Platforms:**
     ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -32,6 +31,7 @@ I'm a student of **Applied Computer Science** passionate about software developm
 ### 🔭 My Projects:
 
 * 📈 **Finance Tracker**: https://github.com/montelzek/finance-tracker - An application designed for managing personal finances.
-* **✅ Simple Todo App**: https://github.com/montelzek/todo-app - A basic application built with the Spring Framework, focusing on fundamental concepts.
+* 🎲 **Board Game Collection API**: https://github.com/montelzek/boardgame-api - A RESTful API built with Java and Spring Boot to manage board games, user collections, and reviews.
+* ✅ **Simple Todo App**: https://github.com/montelzek/todo-app - A basic application built with the Spring Framework, focusing on fundamental concepts.
 * 🏢 **Dormitory Management App**: (Diploma Thesis Project - Just Started!) - Taking the very first steps on my final thesis project: a full-stack application (Spring & Angular) to manage dormitory operations. Stay tuned for the repository!
 
