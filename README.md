@@ -42,16 +42,16 @@ I'm a student of **Applied Computer Science** passionate about software developm
 
 ---
 
-### 🔭 My Projects
-
-* 🏢 **Dormitory Management App**: [github.com/montelzek/dorm-management](https://github.com/montelzek/dorm-management)
-  A full-stack **GraphQL-based** system built with **Spring Boot** and **Angular**, designed for managing student dormitories: residents, rooms, maintenance, reservations, and packages. *(Diploma Thesis Project — Work in Progress)*  
+### 🔭 My Projects 
 
 * 📈 **Finance Tracker**: [github.com/montelzek/finance-tracker](https://github.com/montelzek/finance-tracker)  
   An application designed for managing personal finances and tracking expenses efficiently.
 
 * 🎲 **Board Game Collection API**: [github.com/montelzek/boardgame-api](https://github.com/montelzek/boardgame-api)  
   A RESTful API built with **Java** and **Spring Boot** to manage board games, user collections, and reviews.
+
+* 🏢 **Dormitory Management App**: [github.com/montelzek/dorm-management](https://github.com/montelzek/dorm-management)
+  A full-stack **GraphQL-based** system built with **Spring Boot** and **Angular**, designed for managing student dormitories: residents, rooms, maintenance, reservations, and packages. *(Diploma Thesis Project —   Work in Progress)* 
 
 * ✅ **Simple Todo App**: [github.com/montelzek/todo-app](https://github.com/montelzek/todo-app)  
   A basic application built with the **Spring Framework**, focusing on fundamental concepts like CRUD operations and task management.
