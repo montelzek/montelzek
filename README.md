@@ -2,7 +2,7 @@
 
 I'm a student of **Applied Computer Science** passionate about software development and continuously learning new technologies.
 
-🌱 I’m currently deepening my knowledge in **Java**, the **Spring Framework**, and **Angular**. <br>
+🌱 I’m currently deepening my knowledge in **Java**, the **Spring Framework**. <br>
 👯 I’m currently working on a **Dormitory Management Application** using **Spring Boot**, **GraphQL**, and **Angular**. <br>
 💡 My main focus right now is on **growth and improving my skills** as a developer.
 
